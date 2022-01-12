@@ -1,5 +1,5 @@
 body {
-	background-color: #b0b8ff;
+	background-color: #8b97ff;
   }
   .card > input, button{
 	border: none;
@@ -10,7 +10,6 @@ body {
 	padding-bottom: 1.1em;
 	padding-top: 1.2em;
 	text-align: center;
-	background-color: #8b97ff;
   } 
    
   .card > h3 {
@@ -30,8 +29,9 @@ body {
 
     
   .card {
+	border: 2px solid #d62c46;
+	text-align: left;
 	background-color: #d7dafd;
-	border: 2px solid #e94f668a;
 	padding: 1.1em;
 	margin: 0.8em;
   }
