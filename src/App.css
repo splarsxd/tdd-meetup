@@ -1,5 +1,5 @@
 body {
-	background-color: #7588f5;
+	background-image: url("galaxy.jpg");
   }
   .card > input, button{
 	border: none;
@@ -16,7 +16,7 @@ body {
 	text-align: left;
   }
 
-  .card-grid {
+  .cardgrid {
 	margin-top: 2.2em;
 	grid-gap: 1.1em;
 	margin-bottom: 6.6em;
@@ -25,13 +25,11 @@ body {
   }
 
 
-
-
     
   .card {
 	border: 2px solid #d62c46;
 	text-align: left;
-	background-color: #d7dafd;
+	background-color: #6a80ff;
 	padding: 1.1em;
 	margin: 0.8em;
   }
