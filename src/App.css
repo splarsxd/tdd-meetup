@@ -1,11 +1,37 @@
-.App {
-  text-align: center;
-}
-
 body {
-	background-color: #1e2335;
+	background-color: #b0b8ff;
+  }
+  .card > input, button{
+	border: none;
+	padding: 0.5em;
+  }
 
-}
-header {
+  .header {
+	padding-bottom: 1.1em;
+	padding-top: 1.2em;
 	text-align: center;
-}
+	background-color: #8b97ff;
+  } 
+   
+  .card > h3 {
+	text-align: left;
+  }
+
+  .card-grid {
+	margin-top: 2.2em;
+	grid-gap: 1.1em;
+	margin-bottom: 6.6em;
+	grid-template-columns: repeat(3, 1fr);
+	display: grid;
+  }
+
+
+
+
+    
+  .card {
+	background-color: #d7dafd;
+	border: 2px solid #e94f668a;
+	padding: 1.1em;
+	margin: 0.8em;
+  }
