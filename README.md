@@ -4,4 +4,6 @@
 
 - As a user I want to comment on events to tell everyone what I think of the event.
 
+- As a user I want to search for a meetup using a searchbar.
+
 - As a user I want to be able to rate events.
