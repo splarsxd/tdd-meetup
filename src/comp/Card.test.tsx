@@ -67,12 +67,10 @@ describe("Card comp", () =>{
       date: "2021-09-11",
     }
 
-
     const wrapper= mount(<Card inf={testData}/>)
     const checkbox = wrapper.find(".cardattend")
-
-    console.log(checkbox.html())
-    expect(checkbox.props().checked).toBeFalsy()})})
+    expect(checkbox.props().checked).toBeFalsy()
+  })})
  
      
 
