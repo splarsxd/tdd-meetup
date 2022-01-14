@@ -1,5 +1,5 @@
 body {
-	background-image: url("galaxy.jpg");
+	background-image: url("../public/galaxy.jpg");
   }
   .card > input, button{
 	border: none;
